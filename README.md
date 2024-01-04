@@ -11,15 +11,34 @@
 <br/>
 <br/>
 <h2 font-weight="bold">My skills</h2>
-<ul font-weight="bold">
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>
-  <li>PHP</li>
-  <li>SQL / MySQL</li>
-  <li>Python</li>
-  <li>C</li>
-  <li>C++</li>
-  <li>Java</li>
-  <li>Assembly</li>
-</ul>
+<tanle>
+  <tr>
+    <td>
+      <img src="https://github.com/kevzero/presentation/blob/main/images/html_css_js.png" width="100"/>
+    </td>
+    <td>
+      <img src="https://github.com/kevzero/presentation/blob/main/images/Python.jpg" width="100"/>
+    </td>
+    <td>
+      <img src="https://github.com/kevzero/presentation/blob/main/images/Php.jpg" width="100"/>
+    </td>
+    <td>
+      <img src="https://github.com/kevzero/presentation/blob/main/images/c.jpg" width="100"/>
+    </td>
+    <td>
+      <img src="https://github.com/kevzero/presentation/blob/main/images/C%2B%2B.jpg" width="100"/>
+    </td>
+    <td>
+      <img src="https://github.com/kevzero/presentation/blob/main/images/java.jpg" width="100"/>
+    </td>
+    <td>
+      <img src="https://github.com/kevzero/presentation/blob/main/images/sql-mysql.jpg" width="100"/>
+    </td>
+      
+
+
+
+  
+  </tr> 
+</tanle>
+
