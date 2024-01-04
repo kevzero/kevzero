@@ -11,4 +11,15 @@
 <br/>
 <br/>
 <h2 font-weight="bold">My skills</h2>
-
+<li font-weight="bold">
+  <ul>HTML</ul>
+  <ul>CSS</ul>
+  <ul>Javascript</ul>
+  <ul>PHP</ul>
+  <ul>SQL / MySQL</ul>
+  <ul>Python</ul>
+  <ul>C</ul>
+  <ul>C++</ul>
+  <ul>Java</ul>
+  <ul>Assembly</ul>
+</li>
