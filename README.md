@@ -11,34 +11,16 @@
 <br/>
 <br/>
 <h2 font-weight="bold">My skills</h2>
-<tanle>
-  <tr>
-    <td>
-      <img src="https://github.com/kevzero/presentation/blob/main/images/html_css_js.png" width="100"/>
-    </td>
-    <td>
-      <img src="https://github.com/kevzero/presentation/blob/main/images/Python.jpg" width="100"/>
-    </td>
-    <td>
-      <img src="https://github.com/kevzero/presentation/blob/main/images/Php.jpg" width="100"/>
-    </td>
-    <td>
-      <img src="https://github.com/kevzero/presentation/blob/main/images/c.jpg" width="100"/>
-    </td>
-    <td>
-      <img src="https://github.com/kevzero/presentation/blob/main/images/C%2B%2B.jpg" width="100"/>
-    </td>
-    <td>
-      <img src="https://github.com/kevzero/presentation/blob/main/images/java.jpg" width="100"/>
-    </td>
-    <td>
-      <img src="https://github.com/kevzero/presentation/blob/main/images/sql-mysql.jpg" width="100"/>
-    </td>
-      
+<div>
+<img src="https://github.com/kevzero/presentation/blob/main/images/html_css_js.png" width="100"/>
+<img src="https://github.com/kevzero/presentation/blob/main/images/Python.jpg" width="142"/>
+<img src="https://github.com/kevzero/presentation/blob/main/images/Php.jpg" width="108"/>
+<img src="https://github.com/kevzero/presentation/blob/main/images/c.jpg" width="121"/>
+<img src="https://github.com/kevzero/presentation/blob/main/images/C%2B%2B.jpg" width="94"/>
+<img src="https://github.com/kevzero/presentation/blob/main/images/java.jpg" width="120"/>
+<img src="https://github.com/kevzero/presentation/blob/main/images/sql-mysql.jpg" width="110"/>
+</div>
 
 
 
-  
-  </tr> 
-</tanle>
 
