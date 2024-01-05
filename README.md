@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://github.com/kevzero/presentation/blob/main/welcome-to-my-world.png">
-    <img src="https://github.com/kevzero/presentation/blob/main/welcome-to-my-world.png">
-  </a>
+    <a href="https://github.com/kevzero/presentation/blob/main/welcome-to-my-world.png">  
+    <img src="https://github.com/kevzero/presentation/blob/main/welcome-to-my-world.png" width="70%">
+    </a>
 </p>
 <p><img align="right" width="50%" src="https://github.com/kevzero/presentation/blob/main/my_js.gif" alt="ACcybertech.it"/></p>
 
