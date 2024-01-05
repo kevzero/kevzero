@@ -8,7 +8,7 @@
 ### Presentation 💻
   <p>I am a full stack developer and have been passionate about computer science for many years.
   I create desktop and web applications, I'm writing two books on Python and Javascript programming. I am passionate about everything related to IT.</p>
-  - My contacts: <a href="https:www.accybertech.it">Website</a>   |  <a href="mailto:accybertech@outlook.it">Email</a> </br>
+  🪩 My contacts: <a href="https:www.accybertech.it">Website</a>   |  <a href="mailto:accybertech@outlook.it">Email</a> </br>
   <br/>
   
 <br/>
