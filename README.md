@@ -5,7 +5,7 @@
 </p>
 <p><img align="right" width="50%" src="https://github.com/kevzero/presentation/blob/main/my_js.gif" alt="ACcybertech.it"/></p>
 
-### Presentation
+### Presentation 💻
   <p>I am a full stack developer and have been passionate about computer science for many years.
   I create desktop and web applications, I'm writing two books on Python and Javascript programming. I am passionate about everything related to IT.</p>
   - My contacts: <a href="https:www.accybertech.it">Website</a>   |  <a href="mailto:accybertech@outlook.it">Email</a> </br>
@@ -17,14 +17,14 @@
 <br/>
 <br/>
 
-### My skills
+### My skills ✅
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,py,java,php,mysql,git,github,githubactions,autocad,codepen,laravel,linux,powershell,raspberrypi,stackoverflow,visualstudio,vscode,wordpress,arduino,atom,django,ai,qt&perline=9" />
   </a>
 </p>
 
-### My Github Status ⚡
+### My Github Status 🔎
 
 <div align="center">
   
