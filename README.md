@@ -7,6 +7,11 @@
   <h2>Presentation</h2>
   <p>I am a full stack developer and have been passionate about computer science for many years.
   I create desktop and web applications, I'm writing two books on Python and Javascript programming. I am passionate about everything related to IT.</p>
+  - My contacts: <a href="https:www.accybertech.it">Website</a>   |  <a href="mailto:accybertech@outlook.it">Email</a> </br>
+  - My QR code:<img src="https://github.com/kevzero/presentation/blob/main/images/ACCYBERTECH.jpg" align="left" width="150"/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
