@@ -9,8 +9,8 @@
   <p>Hey 👨‍🚀 I am a full stack developer and have been passionate about computer science for many years.
 I create desktop and web applications, I'm writing two books on Python and Javascript programming. I am passionate about everything related to the world of computers... I love mystery, the unknown, films, video games, travel, programming, animals and nature. I believe that respect and open-mindedness are the basis for living among human beings.
 The world belongs to everyone and everyone must be free.</p>
-  - My contacts: <a href="https://www.accybertech.it" target="_blank">💻 My website</a>   |  <a href="mailto:accybertech@outlook.it">📧 Email</a> </br>
-  - My Github site <a href="https://accybertech-it.github.io/" target="_blank">📧 My Github site</a>
+  - My contacts: <a href="https://www.accybertech.it">💻 My website</a>   |  <a href="mailto:accybertech@outlook.it">📧 Email</a> </br>
+  - My Github site <a href="https://accybertech-it.github.io/">📧 My Github site</a>
 
   <br/>
   
