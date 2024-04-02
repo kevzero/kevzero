@@ -34,7 +34,7 @@ The world belongs to everyone and everyone must be free.</p>
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![John Mwendwa's current streak](https://github-readme-streak-stats-blush.vercel.app/?user=kevzero&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Current streak](https://github-readme-streak-stats-blush.vercel.app/?user=kevzero&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 </div>
 
