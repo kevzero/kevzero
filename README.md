@@ -6,7 +6,7 @@
 <p><img align="right" width="50%" src="https://github.com/kevzero/presentation/blob/main/my_js.gif" alt="ACcybertech.it"/></p>
 
 ### Presentation 💻
-  <p>Hey 👨‍🚀 I am a full stack developer and have been passionate about computer science for many years.
+  <p>Hey 👨‍🚀 I am a full stack developer and have been passionate about computer science for many years. I love electronics and assembling and fixing PCs, both hardware and software, I have a laboratory where I create my electronic works and my studio where I program software.
 I create desktop and web applications, I'm writing two books on Python and Javascript programming. I am passionate about everything related to the world of computers... I love mystery, the unknown, films, video games, travel, programming, animals and nature. I believe that respect and open-mindedness are the basis for living among human beings.
 The world belongs to everyone and everyone must be free.</p>
   - My contacts: <a href="https://www.accybertech.it">💻 My website</a>   |  <a href="mailto:accybertech@outlook.it">📧 Email</a> </br>
