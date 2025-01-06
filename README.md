@@ -17,8 +17,7 @@ The world belongs to everyone and everyone must be free.</p>
   <br/>
   
 ### My QR code 🪀
-  <
-p align="center">
+  <p align="center">
   <img src="https://github.com/kevzero/presentation/blob/main/images/ACCYBERTECH.jpg" width="180"/>
   </p>
 
