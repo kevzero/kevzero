@@ -15,11 +15,7 @@ The world belongs to everyone and everyone must be free.</p>
   - My Github site <a href="https://accybertech-it.github.io/">💻 My Github site</a>
 
   <br/>
-  
-### My QR code 🪀
-  <p align="center">
-  <img src="https://github.com/kevzero/presentation/blob/main/images/ACCYBERTECH.jpg" width="180"/>
-  </p>
+
 
 ### My skills ✅
 <p align="center">
