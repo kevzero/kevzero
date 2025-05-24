@@ -20,7 +20,7 @@ The world belongs to everyone and everyone must be free.</p>
 ### My skills ✅
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,py,mysql,git,github,githubactions,debian,kali,ubuntu,dart,flutter,autocad,sqlite,codepen,linux,powershell,raspberrypi,stackoverflow,visualstudio,vscode,wordpress,arduino,django,ai,gmail,qt,windows&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,py,mysql,git,github,githubactions,debian,kali,nodejs,ubuntu,dart,flutter,autocad,sqlite,codepen,linux,powershell,raspberrypi,stackoverflow,visualstudio,vscode,wordpress,arduino,django,ai,gmail,qt,windows&perline=9" />
   </a>
 </p>
 
