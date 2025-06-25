@@ -12,7 +12,8 @@ Today, I run my own business where I develop software and deal with IT security,
 The world belongs to everyone and everyone must be free.</p>
 
   - My contacts: <a href="mailto:accybertech@outlook.it">📧 Email</a> </br>
-  - My Github site <a href="https://accybertech.github.io/">💻 My Github site</a>
+  - <a href="https://accybertech.github.io/" target="_blank">💻 My Github site</a>
+
 
   <br/>
 
