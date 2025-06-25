@@ -11,8 +11,9 @@
 Today, I run my own business where I develop software and deal with IT security, helping companies and individuals protect their systems and create technological solutions tailored to their needs. Every day I strive to stay up to date on the latest technological innovations and solve the challenges that emerge in an ever-evolving sector. My goal is to provide my customers with reliable and secure tools, improving their efficiency and protection in the digital world.... I love mystery, the unknown, films, video games, travel, programming, animals and nature. I believe that respect and open-mindedness are the basis for living among human beings.
 The world belongs to everyone and everyone must be free.</p>
 
-  - My contacts: <a href="mailto:accybertech@outlook.it">📧 Email</a> </br>
-  - <a href="https://accybertech.github.io/" target="_blank">💻 My Github site</a>
+  <a href="mailto:accybertech@outlook.it">📧 Email</a> </br>
+  
+ <a href="https://accybertech.github.io/" target="_blank">💻 My Github site</a>
 
 
   <br/>
