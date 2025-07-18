@@ -22,8 +22,12 @@ The world belongs to everyone and everyone must be free.</p>
 
 ### My skills ✅
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="[(https://skills.syvixor.com/api/icons?i=kalilinux,assembly,adobeillustrator,androidstudio,android,anaconda,arduino,autocad,balenaetcher,bash,c,codepen,csharp,css,css3,dart,debian,django,dotnet,flutter,git,github,githubactions,githubpages,gitlab,gnu,godot,hackthebox,html,javascript,json,linux,mariadb,metasploit,msdos,mysql,nginx,ngrok,nodejs,npm,protonvpn,protonmail,python,postgresql,powershell,prettier,proxmox,pygame,qtwidgets,raspberrypi,sqlserver,sqlite,stackoverflow,virtualbox,visualstudio,visualstudiocode,vmware,xampp,windows) />
+<img 
+  src="https://skills.syvixor.com/api/icons?i=kalilinux,assembly,adobeillustrator,androidstudio,android,anaconda,arduino,autocad,balenaetcher,bash,c,codepen,csharp,css,css3,dart,debian,django,dotnet,flutter,git,github,githubactions,githubpages,gitlab,gnu,godot,hackthebox,html,javascript,json,linux,mariadb,metasploit,msdos,mysql,nginx,ngrok,nodejs,npm,protonvpn,protonmail,python,postgresql,powershell,prettier,proxmox,pygame,qtwidgets,raspberrypi,sqlserver,sqlite,stackoverflow,virtualbox,visualstudio,visualstudiocode,vmware,xampp,windows"
+  alt="Skills icons badge"
+/>
+
+
   </a>
 </p>
 
