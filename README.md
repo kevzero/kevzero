@@ -11,19 +11,19 @@
 Today, I run my own business where I develop software and deal with IT security, helping companies and individuals protect their systems and create technological solutions tailored to their needs. Every day I strive to stay up to date on the latest technological innovations and solve the challenges that emerge in an ever-evolving sector. My goal is to provide my customers with reliable and secure tools, improving their efficiency and protection in the digital world.... I love mystery, the unknown, films, video games, travel, programming, animals and nature. I believe that respect and open-mindedness are the basis for living among human beings.
 The world belongs to everyone and everyone must be free.</p>
 
-ETHICAL HACKER \n
-DEVELOPER\n
-CYBERSECURITY SPEC \n
-HTML  \n
-CSS \n
-JS \n
-NODE JS \n
-ASSEMBLY \n
-C \n
-C# \n
-PYTHON \n
-SQL SERVER-MYSQL-PostgreSQL\n
-DART-FLUTTER\n
+    <p>ETHICAL HACKER</p>
+    <p>DEVELOPER</p>
+    <p>CYBERSECURITY SPEC</p>
+    <p>HTML</p>
+    <p>CSS</p>
+    <p>JS</p>
+    <p>NODE JS</p>
+    <p>ASSEMBLY</p>
+    <p>C</p>
+    <p>C#</p>
+    <p>PYTHON</p>
+    <p>SQL SERVER - MYSQL - PostgreSQL</p>
+    <p>DART - FLUTTER</p>
 
 <a href="mailto:accybertech@outlook.it">📧 Email</a> </br>
   
