@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Krypto_Kaos v1.0 - Presentation</title>
 </head>
 <body>
 
