@@ -1,60 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Krypto_Kaos v1.0 - Presentation</title>
+</head>
+<body>
+
+<!-- Immagine principale -->
 <p align="center">
-    <a href="https://github.com/kevzero/presentation/blob/main/welcome-to-my-world.png">  
-    <img src="https://github.com/kevzero/presentation/blob/main/welcome-to-my-world.png" width="80%"> 
+    <a href="https://github.com/kevzero/presentation/blob/main/welcome-to-my-world.png">
+        <img src="https://github.com/kevzero/presentation/blob/main/welcome-to-my-world.png" width="80%">
     </a>
 </p>
-<p><img align="right" width="50%" src="https://github.com/kevzero/presentation/blob/main/my_js.gif" alt="ACcybertech.it"/></p>
 
-### Presentation 💻
-  <p>Hey 👨‍🚀, my name is Antonino, I have been passionate about IT since I was a child, an interest that has grown with me and that has led me to explore different aspects of the digital world. Since I was a child, I have always tried to understand how computers and the technologies that surround us work, and this curiosity has pushed me to study and delve into every aspect of IT.
-
-Today, I run my own business where I develop software and deal with IT security, helping companies and individuals protect their systems and create technological solutions tailored to their needs. Every day I strive to stay up to date on the latest technological innovations and solve the challenges that emerge in an ever-evolving sector. My goal is to provide my customers with reliable and secure tools, improving their efficiency and protection in the digital world.... I love mystery, the unknown, films, video games, travel, programming, animals and nature. I believe that respect and open-mindedness are the basis for living among human beings.
-The world belongs to everyone and everyone must be free.</p>
-
-    <p>ETHICAL HACKER</p>
-    <p>DEVELOPER</p>
-    <p>CYBERSECURITY SPEC</p>
-    <p>HTML</p>
-    <p>CSS</p>
-    <p>JS</p>
-    <p>NODE JS</p>
-    <p>ASSEMBLY</p>
-    <p>C</p>
-    <p>C#</p>
-    <p>PYTHON</p>
-    <p>SQL SERVER - MYSQL - PostgreSQL</p>
-    <p>DART - FLUTTER</p>
-
-<a href="mailto:accybertech@outlook.it">📧 Email</a> </br>
-  
-<a href="https://accybertech.github.io/" target="_blank" rel="noopener noreferrer">💻 My Github site</a>
-
-
-
-  <br/>
-
-
-### My skills ✅
-<p align="center">
-<img 
-  src="https://skills.syvixor.com/api/icons?i=kalilinux,assembly,adobeillustrator,androidstudio,android,anaconda,arduino,autocad,balenaetcher,bash,c,codepen,csharp,css,css3,dart,debian,django,dotnet,flutter,git,github,githubactions,githubpages,gitlab,gnu,godot,hackthebox,html,javascript,json,linux,mariadb,metasploit,msdos,mysql,nginx,ngrok,nodejs,npm,protonvpn,protonmail,python,postgresql,powershell,prettier,proxmox,pygame,qtwidgets,raspberrypi,sqlserver,sqlite,stackoverflow,virtualbox,visualstudio,visualstudiocode,vmware,xampp,windows,docker"
-  alt="Skills icons badge"
-/>
-
-
-  </a>
+<!-- GIF animata -->
+<p>
+    <img align="right" width="50%" src="https://github.com/kevzero/presentation/blob/main/my_js.gif" alt="ACcybertech.it"/>
 </p>
 
-### My Github Status 🔎
+<h3>Presentation 💻</h3>
+<p>
+    Hey 👨‍🚀, my name is Antonino, I have been passionate about IT since I was a child, an interest that has grown with me 
+    and that has led me to explore different aspects of the digital world. 
+    Since I was a child, I have always tried to understand how computers and the technologies that surround us work, 
+    and this curiosity has pushed me to study and delve into every aspect of IT.
+</p>
+<p>
+    Today, I run my own business where I develop software and deal with IT security, helping companies and individuals 
+    protect their systems and create technological solutions tailored to their needs. Every day I strive to stay up to date 
+    on the latest technological innovations and solve the challenges that emerge in an ever-evolving sector. 
+    My goal is to provide my customers with reliable and secure tools, improving their efficiency and protection 
+    in the digital world.
+</p>
+<p>
+    I love mystery, the unknown, films, video games, travel, programming, animals and nature. 
+    I believe that respect and open-mindedness are the basis for living among human beings.
+    The world belongs to everyone and everyone must be free.
+</p>
 
+<hr>
+
+<h3>Roles & Skills</h3>
+<ul>
+    <li>ETHICAL HACKER</li>
+    <li>DEVELOPER</li>
+    <li>CYBERSECURITY SPEC</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JS</li>
+    <li>NODE JS</li>
+    <li>ASSEMBLY</li>
+    <li>C</li>
+    <li>C#</li>
+    <li>PYTHON</li>
+    <li>SQL SERVER - MYSQL - PostgreSQL</li>
+    <li>DART - FLUTTER</li>
+</ul>
+
+<p>
+    <a href="mailto:accybertech@outlook.it">📧 Email</a><br>
+    <a href="https://accybertech.github.io/" target="_blank" rel="noopener noreferrer">💻 My GitHub site</a>
+</p>
+
+<hr>
+
+<h3>My Skills ✅</h3>
+<p align="center">
+    <img 
+      src="https://skills.syvixor.com/api/icons?i=kalilinux,assembly,adobeillustrator,androidstudio,android,anaconda,arduino,autocad,balenaetcher,bash,c,codepen,csharp,css,css3,dart,debian,django,dotnet,flutter,git,github,githubactions,githubpages,gitlab,gnu,godot,hackthebox,html,javascript,json,linux,mariadb,metasploit,msdos,mysql,nginx,ngrok,nodejs,npm,protonvpn,protonmail,python,postgresql,powershell,prettier,proxmox,pygame,qtwidgets,raspberrypi,sqlserver,sqlite,stackoverflow,virtualbox,visualstudio,visualstudiocode,vmware,xampp,windows,docker"
+      alt="Skills icons badge"
+    />
+</p>
+
+<hr>
+
+<h3>My GitHub Status 🔎</h3>
 <div align="center">
   
- [![Kevzero's github stats](https://bad-apple-github-readme.vercel.app/api?username=kevzero&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
- [![Kevzero's current streak](https://streak-stats.demolab.com/?user=kevzero&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+  <p>
+    <img src="https://bad-apple-github-readme.vercel.app/api?username=kevzero&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="GitHub Stats"/>
+  </p>
+  <p>
+    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top Languages"/>
+  </p>
+  <p>
+    <img src="https://streak-stats.demolab.com/?user=kevzero&count_private=true&theme=blue-green&title_color=00b3ff" alt="Current Streak"/>
+  </p>
 
 </div>
 
-
+</body>
+</html>
