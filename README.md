@@ -77,7 +77,7 @@
 <div align="center">
   
   <p>
-    <img src="https://bad-apple-github-readme.vercel.app/api?username=kevzero&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="GitHub Stats"/>
+    <img src="[https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
   </p>
   <p>
     <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top Languages"/>
