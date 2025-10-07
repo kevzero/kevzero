@@ -77,7 +77,8 @@
 <div align="center">
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=kevzero)(https://github.com/kevzero/github-readme-stats)"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kevzero" alt="GitHub Stats"/>
+
   </p>
   <p>
     <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top Languages"/>
