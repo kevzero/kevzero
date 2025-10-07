@@ -77,14 +77,16 @@
 <div align="center">
   
   <p>
-<img src="https://github-readme-stats.vercel.app/api?username=kevzero" alt="GitHub Stats"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kevzero&theme=github_dark" alt="GitHub Stats"/>
+</p>
+<p>
+  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=github_dark&title_color=ffffff" alt="Top Languages"/>
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=kevzero&count_private=true&theme=github_dark&title_color=ffffff" alt="Current Streak"/>
+</p>
 
-  </p>
-  <p>
-    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top Languages"/>
-  </p>
-  <p>
-    <img src="https://streak-stats.demolab.com/?user=kevzero&count_private=true&theme=blue-green&title_color=00b3ff" alt="Current Streak"/>
   </p>
 
 </div>
