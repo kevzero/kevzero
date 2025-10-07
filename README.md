@@ -78,13 +78,16 @@
   
   <p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kevzero&theme=github_dark" alt="GitHub Stats"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kevzero&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 <p>
-  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=github_dark&title_color=ffffff" alt="Top Languages"/>
+  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=tokyonight&title_color=70a5fd" alt="Top Languages"/>
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com/?user=kevzero&count_private=true&theme=github_dark&title_color=ffffff" alt="Current Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=kevzero&count_private=true&theme=tokyonight&title_color=70a5fd" alt="Current Streak"/>
+</p>
+
 </p>
 
   </p>
