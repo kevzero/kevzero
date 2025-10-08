@@ -77,21 +77,21 @@
 <div align="center">
   
   <p>
-<p>
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevzero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kevzero&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=tokyonight&title_color=70a5fd" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kevzero&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=kevzero&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
 
 
 </p>
