@@ -76,26 +76,28 @@
   
   <p>
 <h3>My GitHub Status 🔎</h3>
-<!-- GitHub Stats (self-host Vercel) -->
+<!-- GitHub Stats (stile unificato, dark bg + padding coerente) -->
 <p align="center">
   <img 
-    src="https://github-readme-stats-xi-blush-19.vercel.app/api?username=kevzero&custom_title=kevzero's%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=3600&v=20251008_3" 
+    src="https://github-readme-stats-xi-blush-19.vercel.app/api?username=kevzero&custom_title=kevzero's%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&card_width=500&cache_seconds=3600&v=20251008_16" 
     alt="GitHub Stats" 
-    width="500"/>
+    width="500"
+  />
 </p>
 
-<!-- Top Languages (self-host Vercel) -->
+<!-- Top Languages (stile unificato, dark bg + text color coerente) -->
 <p align="center">
   <img 
-    src="https://github-readme-stats-xi-blush-19.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=tokyonight&cache_seconds=3600&v=20251008_3" 
+    src="https://github-readme-stats-xi-blush-19.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=70a5fd&text_color=ffffff&card_width=500&cache_seconds=3600&v=20251008_16" 
     alt="Top Languages" 
-    width="400"/>
+    width="500"
+  />
 </p>
 
-<!-- GitHub Streak (self-host Vercel, dark bg + cache bust) -->
+<!-- GitHub Streak (mirror, stesso stile + bg dark) -->
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=kevzero&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&card_width=500&background=0D1117&cache_seconds=3600&v=20251008_15" 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=kevzero&theme=tokyonight&hide_border=false&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&sideLabels=70a5fd&date_format=j%20M%5B%20Y%5D&card_width=500&background=0D1117&cache_seconds=3600&v=20251008_16" 
     alt="GitHub Streak" 
     width="500"
   />
