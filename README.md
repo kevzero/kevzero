@@ -73,8 +73,6 @@
 
 <hr>
 
-<h3>My GitHub Status 🔎</h3>
-<div align="center">
   
   <p>
 <h2 align="center">My GitHub Status 🔎</h2>
