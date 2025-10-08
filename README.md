@@ -78,15 +78,21 @@
   
   <p>
 <p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kevzero&theme=tokyonight" alt="GitHub Stats"/>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevzero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
-<p>
-  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=tokyonight&title_color=70a5fd" alt="Top Languages"/>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=tokyonight&title_color=70a5fd" alt="Top Languages"/>
 </p>
-<p>
-  <img src="https://streak-stats.demolab.com/?user=kevzero&count_private=true&theme=tokyonight&title_color=70a5fd" alt="Current Streak"/>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kevzero&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
+
 
 </p>
 
