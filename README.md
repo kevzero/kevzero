@@ -94,7 +94,6 @@
 </p>
 
 <!-- GitHub Streak -->
-<!-- GitHub Streak -->
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=kevzero&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&card_width=500&background=0D1117&v=20251008_2"
