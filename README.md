@@ -94,7 +94,11 @@
 
 <!-- GitHub Streak (self-host Vercel, dark bg + cache bust) -->
 <p align="center">
-  <img src="https://streak-stats-kevzero.vercel.app/?user=kevzero&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&card_width=500&background=0D1117&cache_seconds=3600&v=20251008_14" width="500" alt="GitHub Streak"/>
+  <img 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=kevzero&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&card_width=500&background=0D1117&cache_seconds=3600&v=20251008_15" 
+    alt="GitHub Streak" 
+    width="500"
+  />
 </p>
 
 
