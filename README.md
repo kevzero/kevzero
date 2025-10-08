@@ -75,31 +75,34 @@
 
   
   <p>
+<h2>My GitHub Status 🔎</h2>
+
 <h2 align="center">My GitHub Status 🔎</h2>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats (self-host Vercel) -->
 <p align="center">
   <img 
-    src="https://github-readme-stats-xi-blush-19.vercel.app/api?username=kevzero&custom_title=kevzero's%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=3600&v=20251008_1" 
+    src="https://github-readme-stats-xi-blush-19.vercel.app/api?username=kevzero&custom_title=kevzero's%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=3600&v=20251008_3" 
     alt="GitHub Stats" 
     width="500"/>
 </p>
 
-<!-- Top Languages -->
+<!-- Top Languages (self-host Vercel) -->
 <p align="center">
   <img 
-    src="https://github-readme-stats-xi-blush-19.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=tokyonight&cache_seconds=3600&v=20251008_1" 
+    src="https://github-readme-stats-xi-blush-19.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=tokyonight&cache_seconds=3600&v=20251008_3" 
     alt="Top Languages" 
     width="400"/>
 </p>
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak (demolab con bg dark) -->
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=kevzero&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&v=20251008_1" 
+    src="https://streak-stats.demolab.com/?user=kevzero&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&card_width=500&background=0D1117&v=20251008_3" 
     alt="GitHub Streak" 
     width="500"/>
 </p>
+
 
 
 
