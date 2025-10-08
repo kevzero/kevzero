@@ -75,10 +75,7 @@
 
   
   <p>
-<h2>My GitHub Status 🔎</h2>
-
-<h2 align="center">My GitHub Status 🔎</h2>
-
+<h3>My GitHub Status 🔎</h3>
 <!-- GitHub Stats (self-host Vercel) -->
 <p align="center">
   <img 
