@@ -77,17 +77,20 @@
 <div align="center">
   
   <p>
+<!-- GitHub Stats (self-host, PAT, tokyo night) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevzero&show_icons=true&theme=tokyonight&cache_seconds=21600&v=20251008_3" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevzero&layout=compact&theme=tokyonight&cache_seconds=21600&v=20251008_3" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kevzero&theme=tokyonight&cache_seconds=21600&v=20251008_3" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-xi-blush-19.vercel.app/api?username=kevzero&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=3600&v=20251008_1" alt="GitHub Stats"/>
 </p>
 
+<!-- Top Languages (self-host) -->
+<p align="center">
+  <img src="https://github-readme-stats-xi-blush-19.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=tokyonight&cache_seconds=3600&v=20251008_1" alt="Top Languages"/>
 </p>
+
+<!-- Streak (puoi lasciarlo su demolab oppure self-hostare un mirror) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kevzero&theme=tokyonight&hide_border=false&date_format=j%20M%
+
 
 
 </p>
