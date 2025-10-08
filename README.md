@@ -77,20 +77,22 @@
 <div align="center">
   
   <p>
-<!-- GitHub Stats (public-only, stabile) -->
+<!-- GitHub Stats (più dati, ma può andare in throttle) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevzero&show_icons=true&theme=tokyonight&cache_seconds=21600&v=1" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kevzero&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=10800&v=2" alt="GitHub Stats"/>
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevzero&layout=compact&theme=tokyonight&cache_seconds=21600&v=1" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=tokyonight&cache_seconds=10800&v=2" alt="Top Languages"/>
 </p>
 
-<!-- Streak (dominio ufficiale) -->
+<!-- Streak (mirror fallback più tollerante) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kevzero&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&v=1" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kevzero&theme=tokyonight&v=2" alt="GitHub Streak"/>
+  <!-- In caso di problemi, torna a: https://streak-stats.demolab.com/?user=kevzero -->
 </p>
+
 
 </p>
 
