@@ -76,9 +76,6 @@
   
   <p>
 <h3>My GitHub Status 🔎</h3>
-<!-- GitHub Stats (stile unificato, dark bg + padding coerente) -->
-<h2 align="center">My GitHub Status 🔎</h2>
-
 <!-- GitHub Stats -->
 <p align="center">
   <img 
