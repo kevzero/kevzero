@@ -51,6 +51,7 @@
     <li>ASSEMBLY</li>
     <li>C</li>
     <li>C#</li>
+    <li>.NET</li>
     <li>PYTHON</li>
     <li>SQL SERVER - MYSQL - PostgreSQL</li>
     <li>DART - FLUTTER</li>
