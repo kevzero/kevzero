@@ -59,7 +59,7 @@
 
 <p>
     <a href="mailto:accybertech@outlook.it">📧 Email</a><br>
-    <a href="https://accybertech.github.io/" target="_blank" rel="noopener noreferrer">💻 My GitHub site</a>
+    <a href="https://accybertech.github.io/" target="_blank" rel="noopener noreferrer">💻 My GitHub site</a><br>
     <a href="https://accybertech.net/" target="_blank" rel="noopener noreferrer">💻 My site</a>
 </p>
 
