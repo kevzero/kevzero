@@ -50,6 +50,7 @@
     <li>NODE JS</li>
     <li>ASSEMBLY</li>
     <li>C</li>
+    <li>C++</li>
     <li>C#</li>
     <li>.NET</li>
     <li>PYTHON</li>
@@ -68,7 +69,7 @@
 <h3>My Skills ✅</h3>
 <p align="center">
     <img 
-      src="https://skills.syvixor.com/api/icons?i=kalilinux,assembly,adobeillustrator,androidstudio,android,anaconda,arduino,autocad,balenaetcher,bash,c,codepen,csharp,css,css3,dart,debian,django,dotnet,flutter,git,github,githubactions,githubpages,gitlab,gnu,godot,hackthebox,html,javascript,json,linux,mariadb,metasploit,msdos,mysql,nginx,ngrok,nodejs,npm,protonvpn,protonmail,python,postgresql,powershell,prettier,proxmox,pygame,qtwidgets,raspberrypi,sqlserver,sqlite,stackoverflow,virtualbox,visualstudio,visualstudiocode,vmware,xampp,windows,docker"
+      src="https://skills.syvixor.com/api/icons?i=kalilinux,assembly,adobeillustrator,androidstudio,android,anaconda,arduino,autocad,balenaetcher,bash,c,c++,codepen,csharp,css,css3,dart,debian,django,dotnet,flutter,git,github,githubactions,githubpages,gitlab,gnu,godot,hackthebox,html,javascript,json,linux,mariadb,metasploit,msdos,mysql,nginx,ngrok,nodejs,npm,protonvpn,protonmail,python,postgresql,powershell,prettier,proxmox,pygame,qtwidgets,raspberrypi,sqlserver,sqlite,stackoverflow,virtualbox,visualstudio,visualstudiocode,vmware,xampp,windows,docker"
       alt="Skills icons badge"
     />
 </p>
