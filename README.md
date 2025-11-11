@@ -83,7 +83,7 @@
 <!-- GitHub Stats -->
 <p align="center">
   <img 
-    src="https://github-readme-stats-xi-blush-19.vercel.app/api?username=kevzero&show_icons=true&count_private=false&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&card_width=500&cache_seconds=3600&v=20251009_1" 
+    src="https://github-readme-stats-xi-blush-19.vercel.app/api?username=kevzero&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&card_width=500&cache_seconds=3600&v=20251009_1" 
     alt="GitHub Stats" 
     width="500"
   />
@@ -92,7 +92,7 @@
 <!-- Top Languages -->
 <p align="center">
   <img 
-    src="https://github-readme-stats-xi-blush-19.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=false&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=70a5fd&text_color=ffffff&card_width=500&cache_seconds=3600&v=20251009_1" 
+    src="https://github-readme-stats-xi-blush-19.vercel.app/api/top-langs/?username=kevzero&layout=compact&count_private=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=70a5fd&text_color=ffffff&card_width=500&cache_seconds=3600&v=20251009_1" 
     alt="Top Languages" 
     width="500"
   />
