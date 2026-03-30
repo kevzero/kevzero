@@ -41,9 +41,7 @@
 
 <h3>Roles & Skills</h3>
 <ul>
-    <li>ETHICAL HACKER</li>
-    <li>NETWORK TECHNICIAN</li>
-    <li>DEVELOPER</li>
+    <li>SOFTWARE ENGENEER</li>
     <li>CYBERSECURITY SPEC</li>
     <li>HTML</li>
     <li>CSS</li>
