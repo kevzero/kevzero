@@ -72,17 +72,14 @@
       alt="Skills icons badge"
     />
 </p>
-
 <hr>
-
-  
   <p>
-<h3>My GitHub Status 🔎</h3>
+      
 <h3>My GitHub Status 🔎</h3>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=kevzero&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&card_width=500&cache_seconds=3600" 
+    src="https://github-readme-stats.vercel.app/api?username=kevzero&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&card_width=500&cache_seconds=3600" 
     alt="GitHub Stats" 
     width="500"
   />
