@@ -81,9 +81,7 @@
 <!-- GitHub Stats -->
 <p align="center">
   <img 
-    src="https://github-readme-stats-xi-blush-19.vercel.app/api?username=kevzero&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd&card_width=500&cache_seconds=3600&v=20251009_1" 
-    alt="GitHub Stats" 
-    width="500"
+src="https://camo.githubusercontent.com/8e792c34d854e449cfe83e2c5e76e5fd00e9ca9c6b431c8363f166d079bbfb31/68747470733a2f2f6769746875622d726561646d652d6d77656e6477612e76657263656c2e6170702f6170693f757365726e616d653d6a6f686e6d77656e6477612673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565266c696e655f6865696768743d32302669636f6e5f636f6c6f723d303062336666267468656d653d626c75652d677265656e267469746c655f636f6c6f723d303062336666" alt="kevzero github stats" data-canonical-src="https://github-readme-kevzero.vercel.app/api?username=kevzero&amp;show_icons=true&amp;count_private=true&amp;line_height=20&amp;icon_color=00b3ff&amp;theme=blue-green&amp;title_color=00b3ff" style="max-width: 100%;"
   />
 </p>
 
