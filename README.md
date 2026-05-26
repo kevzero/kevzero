@@ -72,8 +72,8 @@
       alt="Skills icons badge"
     />
 </p>
+
 <hr>
-  <p>
       
 <h3>My GitHub Status 🔎</h3>
 
@@ -100,20 +100,6 @@
     width="500"
   />
 </p>
-
-
-
-
-
-
-
-
-
-
-</p>
-
-  </p>
-
 </div>
 
 </body>
